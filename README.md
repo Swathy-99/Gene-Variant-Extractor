@@ -2,18 +2,22 @@
 A Python tool developed to extract gene and variant information from Variant Call Format (VCF) files and generate an excel report for downstream analysis.
 
 
-###**Input**
+**Input**
+
 VCF files
 
 
-##**Output**
+**Output**
+
 Excel file in a tabular format with only genotypes of each samples.
 
 
-#**Requirements**
+**Requirements**
+
 Python (Flask package)
 Java
 
 
-#**Author**
+**Author**
+
 Swathy Prathapan
